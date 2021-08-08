@@ -14,8 +14,11 @@ The model 3 includes application of NLP concepts. The textual reviews provided b
 
 The code present in this repository was implemented on web with the help of the cloud platform Heroku using open source pyhton famework Streamlit. Below are the snapshots of our deployment: 
 
-![issue tab](https://github.com/vishnu1o1/restraunt_recommender/blob/main/img1.jpeg)
-
+The Dashboard
 ![issue tab](https://github.com/vishnu1o1/restraunt_recommender/blob/main/img2.jpeg)
 
+The Dropdown Menu
+![issue tab](https://github.com/vishnu1o1/restraunt_recommender/blob/main/img1.jpeg)
+
+Recommendations for AamRas
 ![issue tab](https://github.com/vishnu1o1/restraunt_recommender/blob/main/img3.jpeg)
