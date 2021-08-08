@@ -13,3 +13,5 @@ With model 2 we implemented the algorithm to suggest restaurants based on the di
 The model 3 includes application of NLP concepts. The textual reviews provided by the user were used to extract the similarity between the reviews of one restaurant with the other. This enables user to enter the name of a restaurant of his choice and get recommendations based on it. This step included removing stopwords and urls and creating a TF-IDF vectorizer with the help of which the similarity score is calculated.
 
 The code present in this repository was implemented on web with the help of the cloud platform Heroku using open source pyhton famework Streamlit. Below are the snapshots of our deployment: 
+
+![issue tab](https://lab.github.com/public/images/issue_tab.png)
